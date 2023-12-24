@@ -1,2 +1,3 @@
 # llm-notebooks
-Notebooks for LLMs
+
+These are jupyter notebooks for various tasks
